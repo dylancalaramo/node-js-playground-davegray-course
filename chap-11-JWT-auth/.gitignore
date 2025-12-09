@@ -1,0 +1,4 @@
+node_modules
+#add your .env file to the gitignore file
+#stops git from pushing the git file
+.env

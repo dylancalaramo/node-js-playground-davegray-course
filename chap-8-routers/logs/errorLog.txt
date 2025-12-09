@@ -1,0 +1,21 @@
+Sep/28/2025 	 20:41:09 	 13dcfe00-0b83-4d99-8240-921cec37b204 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:41:14 	 1425190c-c3c7-493b-aa2c-0df1ffccb42f 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:42:58 	 bc18ccba-4dd6-4729-bdb9-4573dca8893f 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:43:02 	 9a1bb345-2f37-45cd-859c-b3321fa1432f 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:19 	 69a8d24b-e25e-41d7-b61b-9b1455145d12 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:19 	 0398e4ba-9b27-4719-87f0-e05d999b4bbd 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:20 	 f447eb7a-c944-43e0-bb30-942ed8585a09 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:20 	 8327e044-a3da-445e-8903-8b3f86d7d126 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:31 	 c62a9be2-0af3-4d07-a3fd-70a575c9d42a 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:47:54 	 b7dc3447-6204-4741-a0eb-f017e59b847d 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:48:08 	 433d1cd8-6f9e-4939-a501-3744d1c28234 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:48:09 	 fa2e8b9f-bf3c-4b7f-b3ad-9309d0eb4912 	 Error: 	Origin not recognized
+Oct/01/2025 	 19:24:38 	 05669c1f-d3c2-45f4-876f-aea4b920c8d7 	 Error: 	ENOENT: no such file or directory, stat 'C:\Users\bebs\Desktop\Files-and-Folders\web projs\node-js-playground\chap-8-routers\routes\views\index.html'
+Oct/01/2025 	 19:53:31 	 9f81446f-9324-42d9-891b-dd02b5d7ef6d 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 19:58:39 	 b9300372-29bf-459c-b94a-2e06812e511c 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 19:58:55 	 31835961-4666-43c6-aa35-d78cbdf6680d 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 20:00:08 	 7def58e4-ee0b-4983-b674-50a38dd25442 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 20:00:40 	 beb1189f-729c-4e7a-99a2-ebace98c4b17 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 20:01:52 	 a2891311-260a-4e6e-8bbc-acaaec82f414 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 20:03:15 	 98f0ec4d-5409-4e9d-a361-4ddbddab8592 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 20:04:04 	 898ed40b-b00f-4d41-885d-5dcf70007758 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')

@@ -1,0 +1,37 @@
+Sep/28/2025 	 20:41:09 	 13dcfe00-0b83-4d99-8240-921cec37b204 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:41:14 	 1425190c-c3c7-493b-aa2c-0df1ffccb42f 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:42:58 	 bc18ccba-4dd6-4729-bdb9-4573dca8893f 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:43:02 	 9a1bb345-2f37-45cd-859c-b3321fa1432f 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:19 	 69a8d24b-e25e-41d7-b61b-9b1455145d12 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:19 	 0398e4ba-9b27-4719-87f0-e05d999b4bbd 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:20 	 f447eb7a-c944-43e0-bb30-942ed8585a09 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:20 	 8327e044-a3da-445e-8903-8b3f86d7d126 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:45:31 	 c62a9be2-0af3-4d07-a3fd-70a575c9d42a 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:47:54 	 b7dc3447-6204-4741-a0eb-f017e59b847d 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:48:08 	 433d1cd8-6f9e-4939-a501-3744d1c28234 	 Error: 	Origin not recognized
+Sep/28/2025 	 20:48:09 	 fa2e8b9f-bf3c-4b7f-b3ad-9309d0eb4912 	 Error: 	Origin not recognized
+Oct/01/2025 	 19:24:38 	 05669c1f-d3c2-45f4-876f-aea4b920c8d7 	 Error: 	ENOENT: no such file or directory, stat 'C:\Users\bebs\Desktop\Files-and-Folders\web projs\node-js-playground\chap-8-routers\routes\views\index.html'
+Oct/01/2025 	 19:53:31 	 9f81446f-9324-42d9-891b-dd02b5d7ef6d 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 19:58:39 	 b9300372-29bf-459c-b94a-2e06812e511c 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 19:58:55 	 31835961-4666-43c6-aa35-d78cbdf6680d 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 20:00:08 	 7def58e4-ee0b-4983-b674-50a38dd25442 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 20:00:40 	 beb1189f-729c-4e7a-99a2-ebace98c4b17 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 20:01:52 	 a2891311-260a-4e6e-8bbc-acaaec82f414 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 20:03:15 	 98f0ec4d-5409-4e9d-a361-4ddbddab8592 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 20:04:04 	 898ed40b-b00f-4d41-885d-5dcf70007758 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 21:20:40 	 1dfca031-1348-49d3-ae6a-9ef11695ad3c 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 21:28:40 	 015bbd06-b7ca-4490-b581-f3aa0c27bc11 	 TypeError: 	data.employees is not iterable
+Oct/01/2025 	 21:31:08 	 1e54fe3a-47c1-4ad1-9119-d3a8a139a101 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 21:31:25 	 5e1b1e11-8217-40bf-b548-c471de9167c3 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 21:32:16 	 a3d31531-f9ce-4f73-85cd-b663eb79e0f8 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 21:33:36 	 c5a2e20d-7ced-49bd-b679-e0bb0bc9e125 	 TypeError: 	Cannot read properties of undefined (reading 'firstname')
+Oct/01/2025 	 21:35:25 	 1caf2327-21ce-410d-b9db-bf35d33e7081 	 SyntaxError: 	Bad control character in string literal in JSON at position 32 (line 1 column 33)
+Oct/01/2025 	 21:42:49 	 8cef9dba-3863-4a87-a556-c270b3a50b3b 	 TypeError: 	res.code is not a function
+Oct/01/2025 	 21:51:02 	 fea22308-c3c9-4555-b527-54f9041d3a99 	 TypeError: 	Cannot set properties of undefined (setting 'firstname')
+Oct/01/2025 	 22:03:13 	 4540f348-ce58-46f6-9d96-cb4daabc55ca 	 SyntaxError: 	Expected ',' or '}' after property value in JSON at position 11 (line 1 column 12)
+Oct/01/2025 	 22:03:47 	 9db53980-efc0-48ab-bb5f-63e12fb6fe6f 	 SyntaxError: 	Expected property name or '}' in JSON at position 2 (line 1 column 3)
+Oct/01/2025 	 22:06:17 	 930a4e53-cfff-4958-88fb-e3eb6eb069d7 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 22:06:33 	 d10de7ef-7df0-4a40-b919-1a5fb5104adc 	 TypeError: 	Cannot read properties of undefined (reading 'id')
+Oct/01/2025 	 22:10:12 	 0714213d-2fb4-4330-a871-447b3e654850 	 SyntaxError: 	Expected property name or '}' in JSON at position 2 (line 1 column 3)
+Oct/03/2025 	 13:33:05 	 8267eb95-4444-45a4-91af-605176ddb795 	 TypeError: 	Cannot destructure property 'user' of 'req.body' as it is undefined.
+Oct/03/2025 	 13:56:38 	 42ecfdcc-3069-4a4e-8168-2859f6dbfdf4 	 TypeError: 	Cannot destructure property 'user' of 'req.body' as it is undefined.
